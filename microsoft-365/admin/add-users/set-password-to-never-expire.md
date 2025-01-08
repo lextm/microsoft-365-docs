@@ -27,7 +27,7 @@ ms.custom:
 search.appverid:
 description: "Sign in to your Microsoft 365 admin account to set some individual user passwords to never expire by using Microsoft Graph PowerShell."
 ---
-# Set an individual user's password to never expire
+# Set a group of users' password to never expire
 
 Check out all of our small business content on [Small business help & learning](https://go.microsoft.com/fwlink/?linkid=2224585).
 
